@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repository is for development of the Applied Data Science Capstone project (through Coursera).
+This repository is for the development of the Applied Data Science Capstone project for the IBM Data Science Professional Certificate (offered through Coursera).
